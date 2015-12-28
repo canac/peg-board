@@ -1,0 +1,11 @@
+{
+  "name": "peg-game",
+  "version": "0.0.1",
+  "description": "Solves the Cracker Barrel peg board game.",
+  "main": "app.js",
+  "author": "Caleb Cox <calebcox314@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.7.6"
+  }
+}
